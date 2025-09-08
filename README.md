@@ -11,7 +11,7 @@ to my personal GitHub profile!
 </div>
 
 <h3 align="center">
-<a href="https://cbp.io">Visit my personal homepage
+<a href="">Visit my personal homepage
 <img src="https://github.com/fnky/fnky/raw/fnky/img/website.gif" alt="Visit homepage" align="center">
 </a>
 </h3>
@@ -20,7 +20,7 @@ to my personal GitHub profile!
 
 <div align="center">
 <p>Write something nice in my guest book:</p>
-<a href="https://github.com/fnky/fnky/issues"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
+<a href=""><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
 </div>
 
 <hr>
