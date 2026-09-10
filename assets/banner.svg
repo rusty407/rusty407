@@ -1,0 +1,27 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="30%">
+      <stop offset="0%" stop-color="#a78bfa" />
+      <stop offset="55%" stop-color="#f472b6" />
+      <stop offset="100%" stop-color="#fbbf24" />
+    </linearGradient>
+    <filter id="blur1" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="55" />
+    </filter>
+  </defs>
+
+  <rect width="1200" height="280" fill="#0b0a12" />
+  <circle cx="120" cy="30" r="150" fill="#a78bfa" opacity="0.35" filter="url(#blur1)" />
+  <circle cx="1100" cy="250" r="170" fill="#f472b6" opacity="0.3" filter="url(#blur1)" />
+  <circle cx="650" cy="290" r="140" fill="#fbbf24" opacity="0.22" filter="url(#blur1)" />
+
+  <text x="60" y="130" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="800" fill="#f4f2f8">
+    Sandro Amiridze
+  </text>
+  <text x="60" y="176" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="url(#grad)">
+    Security Engineer · Systems Programmer
+  </text>
+  <text x="60" y="212" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#b6b2c2">
+    Honeypots · eBPF · Rust &amp; C
+  </text>
+</svg>
