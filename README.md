@@ -16,11 +16,6 @@ streamed live to an SSE dashboard with full session replay.
 Portfolio: [sandroamiridze.dev](https://sandroamiridze.dev) · [LinkedIn](https://www.linkedin.com/in/sandro-amiridze-433a45372)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rusty407&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rusty407&layout=compact&theme=radical&hide_border=true" height="165" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=rusty407&theme=radical&hide_border=true" alt="GitHub streak stats" />
 </p>
 
