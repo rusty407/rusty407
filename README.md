@@ -16,7 +16,8 @@ streamed live to an SSE dashboard with full session replay.
 Portfolio: [sandroamiridze.dev](https://sandroamiridze.dev) · [LinkedIn](https://www.linkedin.com/in/sandro-amiridze-433a45372)
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rusty407&theme=radical&hide_border=true" alt="GitHub streak stats" />
+  <img src="https://img.shields.io/github/followers/rusty407?style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/rusty407/aegis-honeypot?style=social" alt="Aegis stars" />
 </p>
 
 <picture>
